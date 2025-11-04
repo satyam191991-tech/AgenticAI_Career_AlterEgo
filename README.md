@@ -11,4 +11,4 @@ EXECUTE INSTRUCTIONS:
 
 DEPLOY:
 Project has been deployed in Hugging face space<img width="313" height="23" alt="image" src="https://github.com/user-attachments/assets/0869db33-9b01-44f6-93b3-6541cdd2ab5d" />
-LINK: https://huggingface.co/spaces/satyam191991/career_conversations<img width="588" height="23" alt="image" src="https://github.com/user-attachments/assets/963709ad-b846-4368-8b96-ddf38601fe75" />
+LINK: <img width="588" height="23" alt="image" src="https://github.com/user-attachments/assets/963709ad-b846-4368-8b96-ddf38601fe75" />

@@ -1,0 +1,4 @@
+My name is Satyam Pandit. I’m a data and cloud professional with a strong focus on Azure Databricks, Azure DevOps CI/CD, and enterprise data architecture. Over the years, I’ve helped design and implement scalable, secure, and automated data environments that make collaboration easier and ensure governance across teams. I enjoy solving complex problems hands-on, streamlining workflows, and building setups that are efficient and future-ready.
+
+On the personal side, I’m detail-oriented and curious by nature — I like understanding how things work end-to-end, not just technically but also in how teams and processes connect. I value transparency, structure, and continuous learning, and I take pride in creating solutions that actually make a difference. I'm originally from Mumbai, India, but I moved to Chicago in 2016.
+I love all foods, particularly Indian food. I love eating all types of biryani, but strangely hate potatoes.
